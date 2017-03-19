@@ -1,0 +1,12 @@
+Copy & Paste Routine to transform Ronan Crowleys footnotes into TEI anchors, 
+that can be referred to again later.
+
+
+1.	Copy page transcript inkl footnotes to GoogleDocs
+2.	Copy only page transcript from there to oxygen
+3.	Replace all & by &amp;
+4.	Replace all [sic] by <sic/>
+5.	Replace all [[ by [
+6.	Replace all ]] by]
+7.	Replace all [ by <anchor type="fn" xml:id="fn_page_
+8.	Replace all ] by "/>
