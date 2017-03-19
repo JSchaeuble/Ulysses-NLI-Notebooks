@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>NLI MS 36,639/4</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>National Library of Ireland</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>lorem ipsum</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!-- This bit will be produced with DigFAST -->
+    <sourceDoc>
+        <surface xml:id="facs_1">
+             <graphic url=""/>
+             <zone></zone>
+         </surface>     
+    </sourceDoc>
+    <text>
+        <body>
+            <!-- 01.jpg  -->
+            <div type="page" xml:id="NLI4_1r">
+                <div type="noteblock" >
+                    <head rendition="#ul_blue_crayon">Telemachus</head>
+                    <p>
+                        <lb/><span type="note" rendition="#co_blue" inst="1">thirstily</span>,
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 02.jpg -->
+            <div type="page" xml:id="NLI4_1v">
+                <div type="noteblock" >
+                    <head rendition="#ul_blue_crayon">Nestor</head>
+                    <p>
+                        <lb/><span type="note" inst="1">Sport of kings</span>,
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_2r">
+                <div type="noteblock" >
+                    <head rendition="#ul_blue_crayon">Proteus</head>
+                    <p>
+                        <lb/><span type="note" inst="1" rendition="#co_blue">S. Thomas held lustful pleasure product of original sin</span>,
+                        <lb/><span type="note" inst="2" rendition="#co_blue">pocket of seaweed</span>, <span type="note" inst="3" rendition="#co_blue">pimander good shepherd of men</span>,
+                        <lb/><span type="note" inst="x" rendition="#co_red">minnows ?</span> <span type="note">Aristotle bald lust</span> <span type="note" inst="x" rendition="#co_red">SD in aqua doubly
+                            <lb/>defenceless</span>,  <span type="note" inst="4" rendition="#co_red">banging door G P O Paris</span>, <span type="note" inst="5" rendition="#co_red">heathen
+                        <lb/>sage</span>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- ####################################################################################
+                #####################################################################################
+                this is where I am with marking up the individual notes as tei:span elements with 
+                ####################################################################################
+                #####################################################################################-->
+            
+            <!-- 03.jpg -->
+            <div type="page" xml:id="NLI4_2v">
+                <div type="noteblock">
+                    <head rendition="#ul_blue_crayon">Calypso</head>
+                    <p>
+                        <lb/>cat sees invisible things pass X, commode<anchor type="fn" xml:id="fn_2v_1" />, Milly anemic
+                        <lb/>too much milk<anchor type="fn" xml:id="fn_2v_2" />, headstall<anchor type="fn" xml:id="fn_2v_3" />, leggy colt<anchor type="fn" xml:id="fn_2v_4" />, <anchor type="fn" xml:id="fn_2v_5" />
+                    </p>
+                </div>
+                
+                <div type="noteblock">
+                    <head rendition="#ul_red_crayon">Circe</head>
+                    <p>
+                        <lb/>lynx (Lynch)<anchor type="fn" xml:id="fn_2v_6" /> old resident<anchor type="fn" xml:id="fn_2v_7" />, friend wife togs X, cummerbund<anchor type="fn" xml:id="fn_2v_8" />
+                        <lb/><sic>waitsband</sic>X: <anchor type="fn" xml:id="fn_2v_9" /> 
+                    </p>
+                </div>
+            </div>
+            
+            
+            
+            <div type="page" xml:id="NLI4_3r">
+                <div type="noteblock">
+                    <head rendition="#ul_blue_crayon">Lotuseaters</head>
+                    <p>
+                        <lb/>J. C. &amp; hop bitters<anchor type="fn" xml:id="fn_3r_1"/>, conversion of G. O. M.<anchor type="fn" xml:id="fn_3r_2"/>, Lourdes cure water<anchor type="fn" xml:id="fn_3r_3"/>
+                        <lb/>holy water<anchor type="fn" xml:id="fn_3r_4"/> <sic>ezcema</sic> on baby’s face<anchor type="fn" xml:id="fn_3r_5"/>, El Dorado<anchor type="fn" xml:id="fn_3r_6"/>,
+                        <lb/>dolce far niente<anchor type="fn" xml:id="fn_3r_7"/>, bathed by a woman<anchor type="fn" xml:id="fn_3r_8"/>, M’Coy <anchor type="fn" xml:id="fn_3r_9"/>
+                        <lb/>has case at morgue<anchor type="fn" xml:id="fn_3r_10"/>, smallpox<anchor type="fn" xml:id="fn_3r_11"/>, M’Coy &amp; inquest<anchor type="fn" xml:id="fn_3r_12"/>,
+                        <lb/>eunuch long legs<anchor type="fn" xml:id="fn_3r_13"/> puerile blond large ears<anchor type="fn" xml:id="fn_3r_14"/> tall<anchor type="fn" xml:id="fn_3r_15"/>
+                        <lb/>rules for tenors<anchor type="fn" xml:id="fn_3r_16"/> bass monk no<anchor type="fn" xml:id="fn_3r_17"/>, emulsion<anchor type="fn" xml:id="fn_3r_18"/>,
+                        <lb/>gilded oats<anchor type="fn" xml:id="fn_3r_19"/>, Lord Ardilaun’s skin<anchor type="fn" xml:id="fn_3r_20"/>,           <anchor type="fn" xml:id="fn_3r_21"/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            <!-- 04.jpg -->
+            <div type="page" xml:id="NLI4_3v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_4r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 05.jpg -->
+            <div type="page" xml:id="NLI4_4v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_5r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 06.jpg -->
+            <div type="page" xml:id="NLI4_5v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_6r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 07.jpg -->
+            <div type="page" xml:id="NLI4_6v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_7r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 08.jpg -->
+            <div type="page" xml:id="NLI4_7v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_8r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 09.jpg -->
+            <div type="page" xml:id="NLI4_8v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_9r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 10.jpg -->
+            <div type="page" xml:id="NLI4_9v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_10r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 11.jpg -->
+            <div type="page" xml:id="NLI4_10v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_11r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 12.jpg -->
+            <div type="page" xml:id="NLI4_11v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_12r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 13.jpg -->
+            <div type="page" xml:id="NLI4_12v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_13r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+            <!-- 14.jpg -->
+            <div type="page" xml:id="NLI4_13v">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            <div type="page" xml:id="NLI4_14r">
+                <div type="noteblock">
+                    <head rendition="#ul_xx_crayon"></head>
+                    <p>
+                        <lb/>
+                    </p>
+                </div>
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>
