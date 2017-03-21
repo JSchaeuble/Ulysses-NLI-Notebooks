@@ -62,7 +62,7 @@
             
             <!-- ####################################################################################
                 #####################################################################################
-                this is where I am with marking up the individual notes as tei:span elements with 
+                this is where I am, with marking up the individual notes as tei:span elements with 
                 ####################################################################################
                 #####################################################################################-->
             
@@ -71,16 +71,16 @@
                 <div type="noteblock">
                     <head rendition="#ul_blue_crayon">Calypso</head>
                     <p>
-                        <lb/>cat sees invisible things pass X, commode<anchor type="fn" xml:id="fn_2v_1" />, Milly anemic
-                        <lb/>too much milk<anchor type="fn" xml:id="fn_2v_2" />, headstall<anchor type="fn" xml:id="fn_2v_3" />, leggy colt<anchor type="fn" xml:id="fn_2v_4" />, <anchor type="fn" xml:id="fn_2v_5" />
+                        <lb/>cat sees invisible things pass X, commode<anchor type="fn" xml:id="fn_2v_1"/>, Milly anemic
+                        <lb/>too much milk<anchor type="fn" xml:id="fn_2v_2"/>, headstall<anchor type="fn" xml:id="fn_2v_3"/>, leggy colt<anchor type="fn" xml:id="fn_2v_4"/>, <anchor type="fn" xml:id="fn_2v_5"/>
                     </p>
                 </div>
                 
                 <div type="noteblock">
                     <head rendition="#ul_red_crayon">Circe</head>
                     <p>
-                        <lb/>lynx (Lynch)<anchor type="fn" xml:id="fn_2v_6" /> old resident<anchor type="fn" xml:id="fn_2v_7" />, friend wife togs X, cummerbund<anchor type="fn" xml:id="fn_2v_8" />
-                        <lb/><sic>waitsband</sic>X: <anchor type="fn" xml:id="fn_2v_9" /> 
+                        <lb/>lynx (Lynch)<anchor type="fn" xml:id="fn_2v_6"/> old resident<anchor type="fn" xml:id="fn_2v_7"/>, friend wife togs X, cummerbund<anchor type="fn" xml:id="fn_2v_8"/>
+                        <lb/><sic>waitsband</sic>X: <anchor type="fn" xml:id="fn_2v_9"/> 
                     </p>
                 </div>
             </div>
@@ -111,18 +111,60 @@
             <!-- 04.jpg -->
             <div type="page" xml:id="NLI4_3v">
                 <div type="noteblock">
-                    <head rendition="#ul_xx_crayon"></head>
+                    <head rendition="#ul_blue_crayon">Hades</head>
                     <p>
-                        <lb/>
+                        <lb/>don’t forget to pray for her, remember in yr. prayers<anchor type="fn" xml:id="fn_3v_1"/>, write when                            
+                        <lb/>death in family X, requiem mass<anchor type="fn" xml:id="fn_3v_2"/>, ¼ mourning<anchor type="fn" xml:id="fn_3v_3"/>, go out of
+                        <lb/>mourning<anchor type="fn" xml:id="fn_3v_4"/>, blackedged paper<anchor type="fn" xml:id="fn_3v_5"/>, crape weepers<anchor type="fn" xml:id="fn_3v_6"/>, Frogmore<anchor type="fn" xml:id="fn_3v_7"/>
+                        <lb/>mausoleum<anchor type="fn" xml:id="fn_3v_8"/>, Atropos<anchor type="fn" xml:id="fn_3v_9"/>, Victoria &amp; Albert<anchor type="fn" xml:id="fn_3v_10"/> no prince of
+                        <lb/>Wales X, who kicked the bucket<anchor type="fn" xml:id="fn_3v_11"/>, The Queen – your wife Alby
+                        <lb/>Prince Consort shadow Ed. vii substance<anchor type="fn" xml:id="fn_3v_12"/>, mummy
+                        <lb/>catacombs<anchor type="fn" xml:id="fn_3v_13"/> crypt X false obit. notice say you live
+                        <lb/>longer<anchor type="fn" xml:id="fn_3v_14"/>, interest in prince future not like past? X joke
+                        <lb/>about dead man 10 yrs after death<anchor type="fn" xml:id="fn_3v_15"/> motor hearse X
+                        <lb/>bury in air flying machine<anchor type="fn" xml:id="fn_3v_16"/> lost her husband<anchor type="fn" xml:id="fn_3v_17"/>,
+                        <lb/><anchor type="fn" xml:id="fn_3v_hatchments"/>,  mortal agony<anchor type="fn" xml:id="fn_3v_18"/>, death struggle<anchor type="fn" xml:id="fn_3v_19"/> drowning
+                        <lb/>see whole life<anchor type="fn" xml:id="fn_3v_20"/>, restoration painful<anchor type="fn" xml:id="fn_3v_21"/>, wd. you like to see
+                        <lb/>a priest wandering delirium<anchor type="fn" xml:id="fn_3v_22"/> expire<anchor type="fn" xml:id="fn_3v_23"/> deceased
+                        <lb/>rambling<anchor type="fn" xml:id="fn_3v_24"/> voice in his ear 1 day here you! X
+                        <lb/>lighten up before death<anchor type="fn" xml:id="fn_3v_25"/> brought to life<anchor type="fn" xml:id="fn_3v_26"/> sleep must
+                        <lb/>proceed X ether opium<anchor type="fn" xml:id="fn_3v_27"/> die in sleep<anchor type="fn" xml:id="fn_3v_28"/> devil shows bad
+                        <lb/>man sins<anchor type="fn" xml:id="fn_3v_29"/>. more light<anchor type="fn" xml:id="fn_3v_30"/> or blaze X sick chambers<anchor type="fn" xml:id="fn_3v_31"/>
+                        <lb/>my will be done<anchor type="fn" xml:id="fn_3v_32"/> strabismus patheticus orantium X
+                        <lb/>recognise (dying)<anchor type="fn" xml:id="fn_3v_33"/> dying scrawl<anchor type="fn" xml:id="fn_3v_34"/> old age X slip to
+                        <lb/>foot of bed<anchor type="fn" xml:id="fn_3v_35"/> feeding cup rub mouth with
+                        <lb/>spoon<anchor type="fn" xml:id="fn_3v_36"/> whispering<anchor type="fn" xml:id="fn_3v_37"/> pull pillow away pull him
+                        <lb/>out on floor<anchor type="fn" xml:id="fn_3v_38"/> buried upright<anchor type="fn" xml:id="fn_3v_39"/> head over E<anchor type="fn" xml:id="fn_3v_40"/>,
+                        <lb/>smoked in his own mausoleum<anchor type="fn" xml:id="fn_3v_41"/>, slaughterhouse
+                        <lb/>tanneries, byproducts, dead meat trade, soap,
+                        <lb/>margarine<anchor type="fn" xml:id="fn_3v_42"/>, I’ll make it my biz<anchor type="fn" xml:id="fn_3v_43"/>, macintosh<anchor type="fn" xml:id="fn_3v_44"/>,
+                        <lb/>Rhadamanthus X, hell for leather, no cremate RC<anchor type="fn" xml:id="fn_3v_45"/>    <anchor type="fn" xml:id="fn_3v_46"/>  
                     </p>
                 </div>
             </div>
             
             <div type="page" xml:id="NLI4_4r">
                 <div type="noteblock">
-                    <head rendition="#ul_xx_crayon"></head>
+                    <head rendition="#ul_blue_crayon">Eolus</head>
                     <p>
-                        <lb/>
+                        <lb/>invective<anchor type="fn" xml:id="fn_4r_1"/>, Great was their<anchor type="fn" xml:id="fn_4r_2"/>, underdarkneath the
+                        <lb/>earth<anchor type="fn" xml:id="fn_4r_3"/>,  Farewell X,  but it is not always, so harmless
+                        <lb/>as it seems<anchor type="fn" xml:id="fn_4r_4"/>, nature notes, tiny tots<anchor type="fn" xml:id="fn_4r_5"/>, Queen
+                        <lb/>Anne is dead<anchor type="fn" xml:id="fn_4r_6"/>, poetic licence<anchor type="fn" xml:id="fn_4r_7"/>, look out for
+                        <lb/>squalls<anchor type="fn" xml:id="fn_4r_8"/>, newspaper man<anchor type="fn" xml:id="fn_4r_9"/>,  from liquids proceeded
+                        <lb/>to solids<anchor type="fn" xml:id="fn_4r_10"/>, Tully<anchor type="fn" xml:id="fn_4r_11"/> Freeman there first<anchor type="fn" xml:id="fn_4r_12"/>, castingbox<anchor type="fn" xml:id="fn_4r_13"/>,
+                        <lb/>matrix, casting vote<anchor type="fn" xml:id="fn_4r_14"/>, agenda paper<anchor type="fn" xml:id="fn_4r_15"/>, [lounge]
+                        <lb/>door always visavis other<anchor type="fn" xml:id="fn_4r_16"/>, paperweight<anchor type="fn" xml:id="fn_4r_17"/>, spells
+                        <lb/>finis<anchor type="fn" xml:id="fn_4r_18"/>, tornado,  cyclone<anchor type="fn" xml:id="fn_4r_19"/>, a link with bygone
+                        <lb/>times of yore<anchor type="fn" xml:id="fn_4r_20"/>, standing orders breathless<anchor type="fn" xml:id="fn_4r_21"/> ruins
+                        <lb/>the whole thing<anchor type="fn" xml:id="fn_4r_22"/>, crown him – that’s what X said X,
+                        <lb/>paste<anchor type="fn" xml:id="fn_4r_23"/>, in the lexicon of youth<anchor type="fn" xml:id="fn_4r_24"/> – it is with
+                        <lb/>the most unfeigned regret<anchor type="fn" xml:id="fn_4r_25"/>, dissolution<anchor type="fn" xml:id="fn_4r_26"/>,
+                        <lb/>proof fever<anchor type="fn" xml:id="fn_4r_27"/>, Wallops<anchor type="fn" xml:id="fn_4r_28"/>, Daily Organ<anchor type="fn" xml:id="fn_4r_29"/>, hustle<anchor type="fn" xml:id="fn_4r_30"/> windy
+                        <lb/>Troy<anchor type="fn" xml:id="fn_4r_31"/>, Kick in the latter half of matinée<anchor type="fn" xml:id="fn_4r_32"/> of yore<anchor type="fn" xml:id="fn_4r_33"/>
+                        <lb/>wearer of crown<anchor type="fn" xml:id="fn_4r_34"/>, vaunted<anchor type="fn" xml:id="fn_4r_35"/>,  continued page
+                        <lb/>2 col 3<anchor type="fn" xml:id="fn_4r_36"/> Freeman<anchor type="fn" xml:id="fn_4r_37"/>, answers to ads, telegram
+                        <lb/>boys<anchor type="fn" xml:id="fn_4r_38"/>, newsboards<anchor type="fn" xml:id="fn_4r_39"/>,  metaphorically speaking<anchor type="fn" xml:id="fn_4r_40"/>,
                     </p>
                 </div>
             </div>
@@ -131,18 +173,34 @@
             <!-- 05.jpg -->
             <div type="page" xml:id="NLI4_4v">
                 <div type="noteblock">
-                    <head rendition="#ul_xx_crayon"></head>
+                    <head rendition="#ul_blue_crayon">Lestrygonians</head>
                     <p>
-                        <lb/>
+                        <lb/>lay it on with a trowel<anchor type="fn" xml:id="fn_4v_1"/> his gorge rose<anchor type="fn" xml:id="fn_4v_2"/>, ice<anchor type="fn" xml:id="fn_4v_3"/>, fingers in
+                        <lb/>the pie<anchor type="fn" xml:id="fn_4v_4"/>, Y. M. C. A.<anchor type="fn" xml:id="fn_4v_5"/> tempting fruit<anchor type="fn" xml:id="fn_4v_6"/>, fruitarians &amp;
+                        <lb/>nutarians<anchor type="fn" xml:id="fn_4v_7"/>, old woman who lived in a shoe (Vic)<anchor type="fn" xml:id="fn_4v_8"/> ,
+                        <lb/>buttery, larder<anchor type="fn" xml:id="fn_4v_9"/>, Spanish olives,  or Italian<anchor type="fn" xml:id="fn_4v_10"/>, dog<anchor type="fn" xml:id="fn_4v_11"/>
+                        <lb/>eats moving upper jaw<anchor type="fn" xml:id="fn_4v_12"/>, left Lombard street
+                        <lb/>because Rudy †<anchor type="fn" xml:id="fn_4v_13"/>. dog in the manger<anchor type="fn" xml:id="fn_4v_14"/>,  [ptarmigan]<anchor type="fn" xml:id="fn_4v_15"/>
+                        <lb/>pleasure pain<anchor type="fn" xml:id="fn_4v_16"/> [insides]???, nurse??? spoon first<anchor type="fn" xml:id="fn_4v_17"/>, young
+                        <lb/>P.C.<anchor type="fn" xml:id="fn_4v_18"/> Chinese eat 50 yr old eggs<anchor type="fn" xml:id="fn_4v_19"/> next thing on
+                        <lb/>the menu<anchor type="fn" xml:id="fn_4v_20"/>, chap cleans knife serviette rubbing all the
+                        <lb/>microbes on^to^ it<anchor type="fn" xml:id="fn_4v_21"/> eyeless feet<anchor type="fn" xml:id="fn_4v_22"/> <anchor type="fn" xml:id="fn_4v_23"/> bella passes??? TT selfish<anchor type="fn" xml:id="fn_4v_24"/>
+                        <lb/>1d. bun &amp; walk with band<anchor type="fn" xml:id="fn_4v_25"/> [ads] for criminals<anchor type="fn" xml:id="fn_4v_26"/>,
+                        <lb/>head bandaged<anchor type="fn" xml:id="fn_4v_27"/> pipe spitting X
                     </p>
                 </div>
             </div>
             
             <div type="page" xml:id="NLI4_5r">
                 <div type="noteblock">
-                    <head rendition="#ul_xx_crayon"></head>
+                    <head rendition="#ul_blue_crayon">Scylla and Carybdis</head>
                     <p>
-                        <lb/>
+                        <lb/>man and boy<anchor type="fn" xml:id="fn_5r_1"/> wicked uncle<anchor type="fn" xml:id="fn_5r_2"/>, carroty Bess<anchor type="fn" xml:id="fn_5r_3"/> 1st
+                        <lb/>citizen X, Dr Sigerson<anchor type="fn" xml:id="fn_5r_4"/>, Chas Hart actor WS’s
+                        <lb/>grandnephew<anchor type="fn" xml:id="fn_5r_5"/>,  [with] Socrates 2 wives Xanthippe
+                        <lb/>&amp; Myrto, socratididion’s, epipsychidion<anchor type="fn" xml:id="fn_5r_6"/>,
+                        <lb/>brother-in-love<anchor type="fn" xml:id="fn_5r_7"/> [incitation / is it ?certain],  our players<anchor type="fn" xml:id="fn_5r_8"/>,
+                        <lb/>one thinks<anchor type="fn" xml:id="fn_5r_9"/>, Arist.??? wife’s bald???,
                     </p>
                 </div>
             </div>
@@ -151,10 +209,72 @@
             <!-- 06.jpg -->
             <div type="page" xml:id="NLI4_5v">
                 <div type="noteblock">
-                    <head rendition="#ul_xx_crayon"></head>
+                    <head rendition="#ul_blue_crayon">Wandering Rocks</head>
                     <p>
-                        <lb/>
+                        <lb/>LB meets Bloomer, B of Ire Mary’s Abbey???, Liberator’s bulk
+                        <lb/>Nation Dan^m^er Latouche Fade Burton. O’Madden &amp;
+                        <lb/>O’Madden<anchor type="fn" xml:id="fn_5v_1"/>, father’s dead!<anchor type="fn" xml:id="fn_5v_2"/>–?MS is that – like it as
+                        <lb/>damn it!<anchor type="fn" xml:id="fn_5v_3"/> two meeting curse then drink Island
+                        <lb/>bridge???
+                        
                     </p>
+                </div>
+                <div type="noteblock">
+                    <head rendition="#ul_red_crayon">Circe</head>
+                    <div type="centerblock">
+                         <p>
+                                 <lb/>LB branded ‘C’ <anchor type="fn" xml:id="fn_5v_vii"/>, cock &amp; bull story<anchor type="fn" xml:id="fn_5v_viii"/>, LB behind
+                                 <lb/>hand she’s drunk inebriated<anchor type="fn" xml:id="fn_5v_ix"/> old burgundy<anchor type="fn" xml:id="fn_5v_x"/>,
+                                 <lb/>LB kisses JJ’s hand<anchor type="fn" xml:id="fn_5v_xi"/>, Ready,  There’s no-one in it
+                                 <lb/>but her old father drunk<anchor type="fn" xml:id="fn_5v_xii"/>, pulchritude<anchor type="fn" xml:id="fn_5v_xiii"/>, LB visited
+                                 <lb/>medicallyNS, LB to Mrs Breen La ci darem la mano<anchor type="fn" xml:id="fn_5v_xiv"/>,
+                                 <lb/>lead him a dance, yes ma’am<anchor type="fn" xml:id="fn_5v_xv"/>, women pour
+                                 <lb/>scent from top : roseleaves victor LBNS remove
+                                 <lb/>him<anchor type="fn" xml:id="fn_5v_xvi"/>, bear &amp; tomtom<anchor type="fn" xml:id="fn_5v_xvii"/>, Dublin horseshow 2nd
+                                 <lb/>day fashionable,  bear buzzes to bother bees<anchor type="fn" xml:id="fn_5v_xviii"/>,
+                                 <lb/>Bloom parade, Bloom explains his plansNS, King Horse
+                                 <lb/>beastly dead<anchor type="fn" xml:id="fn_5v_xix"/>, scapegoat<anchor type="fn" xml:id="fn_5v_xx"/>,  idiot laugh of whores,
+                                 <lb/>Mr Pat, fight between whores [not NS], cries of backers,
+                                 <lb/>drunkards cardplayers<anchor type="fn" xml:id="fn_5v_xxi"/>, I believe in himNS, Messiah
+                                 <lb/>postexilic hegemony NS, David’s houseNS, EmmanuelNS
+                                 <lb/>boar with bristles white bull apocalypse BelialNS
+                                 <lb/>R B reproves soulless LB<anchor type="fn" xml:id="fn_5v_xxii"/> Messiah hid under
+                                 <lb/>Jahveh’s seat,NS Messiah ben Joseph or ben
+                                 <lb/>David,NS pseudomessiah,NS Menanem s. of JudasNS
+                                 <lb/>Abram Abulafia Asher Lämmlein (Istria)NS
+                                 <lb/>favourite<anchor type="fn" xml:id="fn_5v_xxiii"/>, LB pissed againstNS I done seed him<anchor type="fn" xml:id="fn_5v_xxiv"/>, their
+                                 <lb/>genitories<anchor type="fn" xml:id="fn_5v_xxv"/>, LB’s prick preservedNS, Password<anchor type="fn" xml:id="fn_5v_xxvi"/>, fife &amp;
+                                 <lb/>drum bandNS<anchor type="fn" xml:id="fn_5v_xxvii"/>, plough her<anchor type="fn" xml:id="fn_5v_xxviii"/>, triumphal archNS<anchor type="fn" xml:id="fn_5v_xxix"/>
+                                 <lb/>a royal (stag)<anchor type="fn" xml:id="fn_5v_xxx"/>, royal Stuart plaid steer, 14 hands<anchor type="fn" xml:id="fn_5v_xxxi"/>
+                                 <lb/>what is in store for you<anchor type="fn" xml:id="fn_5v_xxxii"/>, I asked before you<anchor type="fn" xml:id="fn_5v_xxxiii"/>, suckeress<anchor type="fn" xml:id="fn_5v_xxxiv"/>,
+                                 <lb/>I’m the best o’cook<anchor type="fn" xml:id="fn_5v_xxxv"/>, LB escaped from private
+                                 <lb/>lunatic asylumNS, we ladies<anchor type="fn" xml:id="fn_5v_xxxvi"/>, 3 x 3,NS<anchor type="fn" xml:id="fn_5v_xxxvii"/> LB carries
+                                 <lb/>someone on backNS, LB stinksNS, Highlander pissing<anchor type="fn" xml:id="fn_5v_xxxviii"/>,
+                                 <lb/>enemy soldiers show medals<anchor type="fn" xml:id="fn_5v_xxxix"/>, mange pocha,
+                                 <lb/>caliph, I liked the danger LB<anchor type="fn" xml:id="fn_5v_xl"/>, Gerty limps<anchor type="fn" xml:id="fn_5v_xli"/>,
+                                 <lb/>shorthand &amp; longhand<anchor type="fn" xml:id="fn_5v_xlii"/>, LB stoned &amp; crucifiedNS
+                                 <lb/>Turko the terrible<anchor type="fn" xml:id="fn_5v_xliii"/>, all hollow, hollow, hollowNS
+                                 <lb/>divorcedX, [ph] I believe in himNS, [all exquisite]X
+                                 <lb/>Zoe, begin?<anchor type="fn" xml:id="fn_5v_xliv"/> Bravo! I Bloom tell you so!NS
+                                 <lb/>magnesium photo takenNS, LB speaks Hebrew
+                                 <lb/>(official translation) NS
+                         </p>
+                    </div>
+                    <div type="marginblock">
+                        <p>
+                            <lb/>cheap
+                            <lb/>at the
+                            <lb/>price<anchor type="fn" xml:id="fn_5v_v"/>
+                        </p>
+                        <p>
+                            <lb/>Zingarite???
+                            <lb/>Irish girl
+                            <lb/>hand up to
+                            <lb/>elbow in
+                            <lb/>vulva of
+                            <lb/>mare<anchor type="fn" xml:id="fn_5v_vi"/>
+                        </p>
+                    </div>
                 </div>
             </div>
             
