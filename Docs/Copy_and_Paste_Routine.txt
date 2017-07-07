@@ -1,3 +1,8 @@
+Mark all note beginnings in the word document with $ and all note ends with %. Notes always end AFTER the footnote, but before the comma, they start AFTER the comma.
+
+
+
+
 Copy & Paste Routine to transform Ronan Crowleys footnotes into TEI anchors, 
 that can be referred to again later.
 
